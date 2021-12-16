@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/CryptoPunkClone/static/css/main.537d15e9.chunk.css",
-    "main.js": "/CryptoPunkClone/static/js/main.c0015bcf.chunk.js",
-    "main.js.map": "/CryptoPunkClone/static/js/main.c0015bcf.chunk.js.map",
-    "runtime-main.js": "/CryptoPunkClone/static/js/runtime-main.f1aae94d.js",
-    "runtime-main.js.map": "/CryptoPunkClone/static/js/runtime-main.f1aae94d.js.map",
-    "static/js/2.e7d48763.chunk.js": "/CryptoPunkClone/static/js/2.e7d48763.chunk.js",
-    "static/js/2.e7d48763.chunk.js.map": "/CryptoPunkClone/static/js/2.e7d48763.chunk.js.map",
-    "static/js/3.66ddff8e.chunk.js": "/CryptoPunkClone/static/js/3.66ddff8e.chunk.js",
-    "static/js/3.66ddff8e.chunk.js.map": "/CryptoPunkClone/static/js/3.66ddff8e.chunk.js.map",
+    "main.js": "/CryptoPunkClone/static/js/main.30408cd1.chunk.js",
+    "main.js.map": "/CryptoPunkClone/static/js/main.30408cd1.chunk.js.map",
+    "runtime-main.js": "/CryptoPunkClone/static/js/runtime-main.fd844500.js",
+    "runtime-main.js.map": "/CryptoPunkClone/static/js/runtime-main.fd844500.js.map",
+    "static/js/2.dac65e82.chunk.js": "/CryptoPunkClone/static/js/2.dac65e82.chunk.js",
+    "static/js/2.dac65e82.chunk.js.map": "/CryptoPunkClone/static/js/2.dac65e82.chunk.js.map",
+    "static/js/3.b2d4e69d.chunk.js": "/CryptoPunkClone/static/js/3.b2d4e69d.chunk.js",
+    "static/js/3.b2d4e69d.chunk.js.map": "/CryptoPunkClone/static/js/3.b2d4e69d.chunk.js.map",
     "index.html": "/CryptoPunkClone/index.html",
     "static/css/main.537d15e9.chunk.css.map": "/CryptoPunkClone/static/css/main.537d15e9.chunk.css.map",
-    "static/js/2.e7d48763.chunk.js.LICENSE.txt": "/CryptoPunkClone/static/js/2.e7d48763.chunk.js.LICENSE.txt",
+    "static/js/2.dac65e82.chunk.js.LICENSE.txt": "/CryptoPunkClone/static/js/2.dac65e82.chunk.js.LICENSE.txt",
     "static/media/cryptopunk-logo.8bee49d5.png": "/CryptoPunkClone/static/media/cryptopunk-logo.8bee49d5.png",
     "static/media/logo.6ce24c58.svg": "/CryptoPunkClone/static/media/logo.6ce24c58.svg",
     "static/media/weth.4101f1da.png": "/CryptoPunkClone/static/media/weth.4101f1da.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f1aae94d.js",
-    "static/js/2.e7d48763.chunk.js",
+    "static/js/runtime-main.fd844500.js",
+    "static/js/2.dac65e82.chunk.js",
     "static/css/main.537d15e9.chunk.css",
-    "static/js/main.c0015bcf.chunk.js"
+    "static/js/main.30408cd1.chunk.js"
   ]
 }
